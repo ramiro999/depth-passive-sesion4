@@ -7,4 +7,4 @@
 
 ➡️ Este repositorio contiene el material de la sesión 4 del semillero de investigación Hands-On Computer Vision de la Universidad Industrial de Santander.
 
-📆 El taller se realizara el 8 de abril.
+📆 La sesión se realizara el 8 de abril.
