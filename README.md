@@ -5,4 +5,6 @@
 
 
 
-💥  Sumérgete en el arte y ciencia de descifrar la tercera dimensión con nuestra sesión sobre Estimación Pasiva de la Profundidad. Exploraremos técnicas innovadoras que permiten a las máquinas percibir y medir la profundidad del entorno sin intervención activa, utilizando únicamente la luz natural y las imágenes capturadas. Esta sesión te abrirá las puertas a una comprensión fundamental de cómo se puede interpretar el espacio y la distancia a partir de elementos visuales, sentando las bases para avances en robótica, navegación autónoma y realidad aumentada. 
+➡️ Este repositorio contiene el material de la sesión 4 del semillero de investigación Hands-On Computer Vision de la Universidad Industrial de Santander.
+
+📆 El taller se realizara el 8 de abril.
