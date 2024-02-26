@@ -1,4 +1,4 @@
-![Logo](https://github.com/ramiro999/depth-passive-sesion4/assets/105291217/4fef0b96-9966-459d-a878-d7590c5449e9)
+![Logo](https://raw.githubusercontent.com/ramiro999/depth-passive-sesion4/main/images/cover-page.png)
 
 
 # 📷 Sesión 4 - Estimación pasiva de la profundidad.
