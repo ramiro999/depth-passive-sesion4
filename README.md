@@ -5,6 +5,6 @@
 
 
 
-➡️ Este repositorio contiene el material de la sesión 4 del semillero de investigación Hands-On Computer Vision de la Universidad Industrial de Santander.
+➡️ Este repositorio contiene el material de la sesión 5 del semillero de investigación Hands-On Computer Vision de la Universidad Industrial de Santander.
 
 📆 La sesión se realizara el 8 de abril.
